@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🏗️ Hindustan Projects Pvt. Ltd.
 
-<!--
-**Hindustan-Projects/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+**Multi-role company based in Bhilwara, Rajasthan, India**
 
-Here are some ideas to get you started:
+We operate across two core business verticals — combining physical infrastructure expertise with digital innovation.
+a
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏗️ Architecture & Construction
+Design, planning, and execution of residential, commercial, and infrastructure projects.
+
+### 💻 Marketing & IT Services
+Digital marketing, branding, web/software development, and IT solutions for businesses.
+
+---
+
+## 📂 Our Projects
+All ongoing and completed projects are listed in our [Projects Repository](https://github.com/hindustan-groups/hindustan-projects).
+
+## 📍 Location
+OPPOSITE MUKHERJI PARK, ABOVE BHAGWATI COFFE HOUSE, BHOPAL GANJ, BHILWARA (RAJ.)– 311001, Bhopal Ganj, Bhilwara, Rajasthan 311001
+
+## 📞 Contact
+- 📧 Email: hindustanprojectsofficial@gmail.com
+- 📱 Phone: +91-7597000601
+- 🌐 Website: https://hindustanprojects.in/
+
+---
+⭐ Building structures. Building solutions.
